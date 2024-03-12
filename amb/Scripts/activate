@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\Alura Space\alura_space-projeto_front\amb"
+VIRTUAL_ENV="C:\Users\USER\Documents\GitHub\alura_space\amb"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

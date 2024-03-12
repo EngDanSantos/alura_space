@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=E:\Alura Space\alura_space-projeto_front\amb
+set VIRTUAL_ENV=C:\Users\USER\Documents\GitHub\alura_space\amb
 
 if not defined PROMPT set PROMPT=$P$G
 
